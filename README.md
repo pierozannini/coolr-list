@@ -1,5 +1,5 @@
 # coolr-list
-List of websites used by coolR package:
+List of websites used by {coolr} package:
 
 - https://oscarbaruffa.com/
 - https://nssdeviations.com/
