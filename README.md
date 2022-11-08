@@ -3,3 +3,27 @@ List of websites used by coolR package
 
 - https://oscarbaruffa.com/
 - https://nssdeviations.com/
+- https://luisdva.github.io/
+- https://posit.co/
+- https://www.tidyverse.org/
+- https://www.infoworld.com/category/r-language/
+- https://www.brodrigues.co/about/about/
+- https://github.com/Envirometrix/landmap
+- https://r-bio.github.io/
+- https://github.com/coatless-tutorials/teach-r
+- https://rstudio-education.github.io/hopr/
+- https://swcarpentry.github.io/r-novice-inflammation/
+- https://richpauloo.github.io/
+- https://bookdown.org/yihui/blogdown/
+- http://www.zevross.com/
+- https://adv-r.hadley.nz/preface.html
+- https://style.tidyverse.org/
+- https://intro2r.com/
+- https://www.cedricscherer.com/
+- https://insightsfromdata.io/
+- https://csgillespie.github.io/efficientR/
+- https://colinfay.me/
+- https://www.r-bloggers.com/
+- https://janlauge.github.io/index
+- https://rstats.wtf/index.html
+- https://ropensci.org/
