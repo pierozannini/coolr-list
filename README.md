@@ -47,3 +47,14 @@ List of websites used by {coolr} package:
 - https://r-video-tutorial.blogspot.com/
 - https://lf0.com/
 - https://lbusettspatialr.blogspot.com/
+- http://josiahparry.com/
+- https://www.robinlovelace.net/
+- https://www.favstats.eu/
+- https://www.kelly-bodwin.com/
+- http://varianceexplained.org/
+- https://jasonpunyon.com/
+- https://www.njtierney.com/
+- https://federicagazzelloni.netlify.app/
+- https://edwinth.github.io/
+- https://tonyelhabr.rbind.io/
+- https://jechave.com/
